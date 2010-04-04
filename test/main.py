@@ -1,9 +1,8 @@
 #
 #  main.py
-#  nsdate-chrono
 #
-#  Created by ento on 3/20/10.
-#  Copyright Moonshine Project Corporation 2010. All rights reserved.
+#  Copyright (c) 2010 ento.
+#  See the file license.txt for copying permission.
 #
 
 #import modules required by application

@@ -1,9 +1,8 @@
 #
 #  tests.py
-#  test
 #
-#  Created by ento on 3/20/10.
-#  Copyright (c) 2010 Moonshine Project Corporation. All rights reserved.
+#  Copyright (c) 2010 ento.
+#  See the file license.txt for copying permission.
 #
 
 from Foundation import *

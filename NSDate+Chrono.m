@@ -1,10 +1,8 @@
 //
 //  NSDate+Chrono.m
-//  app
 //
-//  Created by ento on 3/14/10.
-//  Copyright 2010 Moonshine Project Corporation. All rights reserved.
-//
+//  Copyright (c) 2010 ento.
+//  See the file license.txt for copying permission.
 
 #import "NSDate+Chrono.h"
 
